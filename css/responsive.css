@@ -1,0 +1,187 @@
+@media only screen and (max-width:767px){
+    .navbar-toggler {
+        background-color: black;
+        border: 1px solid black;
+    }
+    .banner_img{
+        background-position-x: 74%;
+    }
+    .banner_img1{
+        background-position-x: 65%;
+    }
+    .navbar-nav{
+        margin: 0px;
+        background-color: #fff !important;
+    }
+    .header .navbar-nav .nav-item .nav-link{
+        color: #333;
+    }
+    .banner_img img{
+        height: 60vh;
+    }
+    .banner_img1 img{
+        height: 60vh;
+    }
+    .banner_content p{
+        font-size: 17px;
+    }
+    .slick-next:before{
+        position: relative;
+        top: 63px;
+    }
+    .slick-prev:before{
+        position: relative;
+        top: 63px;
+    }
+    .banner_content h4{
+        font-size: 26px;
+    }
+    .banner_btn{
+        margin: 60px 0px 0px 75px;
+    }
+    .banner_content1 h4{
+        font-size: 30px;
+    }
+    .banner_content1 h6{
+        display: none;
+    }
+    .banner_btn .btn{
+        margin: 19px 0px 0px -38px;
+    }
+    .abt_014_two{
+        padding: 0px;
+    }
+    
+    .abt_014_img{
+        display: none;
+    }
+    .about h4::before{
+        left: 267px;
+    }
+    .services h4::before{
+        left: 267px;
+    }
+    .testimonial h4::before{
+        left: 267px;
+    }
+    .team h4::before{
+        left: 267px;
+    }
+    .contact h4::before{
+        left: 267px;
+    }
+    .testimonial h4{
+        font-size: 39px;
+    }
+    .slick-next:before {
+        left: 24px;
+    }
+    .slick-prev:before{
+        left: -24px;
+    }
+    .navbar-toggler span{
+        color: #fff !important;
+    }
+    .text{
+        padding: 12px !important;
+    }
+
+}
+
+
+
+/* ipad */
+@media only screen and (min-width:768px) and (max-width:1023px){
+   
+    .about h4{
+        font-size: 27px;
+    }
+    .services h4{
+        font-size: 27px;
+    }
+    .team h4{
+        font-size: 27px;
+    }
+    .testimonial h4{
+        font-size: 40px;
+    }
+    .contact h4{
+        font-size: 27px;
+    }
+    .team h4::before {
+        top: 163%;
+        left: 45px;
+    }
+    .about h4::before {
+        top: 163%;
+        left: 45px;
+    }
+    .services h4::before {
+        top: 163%;
+        left: 45px;
+    }
+    .testimonial h4::before {
+        top: 163%;
+        left: 45px;
+    }
+    .contact h4::before {
+        top: 163%;
+        left: 45px;
+    }
+    .abt_014_two{
+        padding: 0px;
+    }
+  
+    .navbar-nav{
+        font-size: 9px;
+        margin: 0px;
+    }
+    .testimonial p {
+        margin-left: 34px !important;
+    }
+    .banner_img1{
+        background-position-x: 69%;
+        height: 58vh;
+        }
+    .banner_img{
+        background-position-x: 69%;
+        height: 58vh;
+        }
+}
+
+@media only screen and (min-width:1024px) and (max-width:1365px){
+    .navbar-nav{
+        margin: 0px !important;
+    }
+    .header .navbar-nav .nav-item{
+        font-size: 18px !important;
+    }
+    .about h4::before {
+        top: 106%;
+        left: 39%;
+    }
+    .services h4::before {
+        top: 106%;
+        left: 39%;
+    }
+    .team h4::before {
+        top: 106%;
+        left: 39%;
+    }
+    .testimonial h4::before {
+        top: 106%;
+        left: 39%;
+    }
+    .contact h4::before {
+        top: 106%;
+        left: 39%;
+    }
+    .banner_img1{
+    background-position-x: 69%;
+    height: 58vh;
+    }
+    .banner_img{
+    background-position-x: 69%;
+    height: 58vh;
+    }
+}
